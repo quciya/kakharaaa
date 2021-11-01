@@ -1,0 +1,40 @@
+Map <String,String> imageletter={
+  "क":"kalam",
+  "ख":"khaat",
+  "ग": "gamala",
+  "घ":"ghar",               
+  "च":"chara",
+  "छ":"chaata",
+  "ज":"jun",
+  "झ":"jhola",
+  "ट":"topi",
+  "ठ":"theki",
+  "ड":"doko",
+  "ढ":"dhoka",
+  "त":"taraaju",
+  "थ":"thaal",
+  "द":"damaha",
+  "ध":"dhaan",
+  "न":"naak",
+  "प":"putali",
+  "फ":"phool",
+  "ब":"badaam",
+  "भ":"bhaat",
+  "म":"mauri",
+  "र":"rukh",
+  "ल":"luga",
+  "व":"vaan"
+};
+Map<String,int> numbers={
+  "ZERO" : 0,
+  "ONE" :  1,
+  "TWO" :  2,
+  "THREE": 3,
+  "FOUR" : 4,
+  "FIVE" :5,
+  "SIX": 6,
+  "SEVEN": 7,
+  "EIGHT" : 8,
+  "NINE": 9
+
+};
